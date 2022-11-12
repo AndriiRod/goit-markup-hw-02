@@ -141,10 +141,19 @@ body {
   letter-spacing: 0.03em;
   color: var(--secondary-text-color);
 }
+.color-link
+{
+  color:#ffffff;
+}
 .footer-logo
 {
   color:#ffffff;
 }
+
+
+/* 😄portfolio.html😄------------------------------------ */
+
+
 /* ###############--Project--###############*/
 
 .project-btn {
